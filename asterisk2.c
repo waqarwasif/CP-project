@@ -4,53 +4,21 @@
 int main(){
 
     //Rectangle
-    printf("*********\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*********\n\n");
+    printf("*********\n*\t*\n*\t*\n*\t*\n*\t*\n*\t*\n*\t*\n*\t*\n*\t*\n*\t*\n*********\n\n");
+    
     
     //Oval
 
-    printf("   ***   \n");
-    printf(" *     *\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf("*\t*\n");
-    printf(" *     *\n");
-    printf("   ***   \n\n");
-
+    printf("   ***   \n *     *\n*\t*\n*\t*\n*\t*\n*\t*\n*\t*\n *     *\n   ***   \n\n");
+    
     //Arrow head
 
-    printf("    *\n");
-    printf("   ***\n");
-    printf("  *****\n");
-    printf("    *\n");
-    printf("    *\n");
-    printf("    *\n");
-    printf("    *\n");
-    printf("    *\n");
-    printf("    *\n\n");
-
+    printf("    *\n   ***\n  *****\n    *\n    *\n    *\n    *\n    *\n    *\n\n");
+    
     //Diamond
 
-    printf("     *\n");
-    printf("    * *\n");
-    printf("   *   *\n");
-    printf("  *     *\n");
-    printf(" *       *\n");
-    printf("  *     *\n");
-    printf("   *   *\n");
-    printf("    * *\n");
-    printf("     *\n\n");
+    printf("     *\n    * *\n   *   *\n  *     *\n *       *\n*         *\n *       *\n  *     *\n   *   *\n    * *\n     *\n\n");
+
 
     //Right angled triangle
     
