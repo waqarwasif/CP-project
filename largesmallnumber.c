@@ -6,9 +6,9 @@ int main()
 
     printf("Enter three different integers: ");
     scanf("%d%d%d", &a, &b, &c);
-    printf("Sum is %d", a + b + c);
-    printf("Average is %d", (a + b + c) / 3);
-    printf("Product is %d", a * b * c);
+    printf("\nSum is %d", a + b + c);
+    printf("\nAverage is %d", (a + b + c) / 3);
+    printf("\nProduct is %d", a * b * c);
     if (a <= b && a <= c)
     {
         printf("\nSmallest is %d", a);
