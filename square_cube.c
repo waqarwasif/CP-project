@@ -14,5 +14,5 @@ int main()
     printf(" %d\t%d\t%d\n",i,i*i,i*i*i);
     printf(" %d\t%d\t%d\n",j,j*j,j*j*j);
     
-
+    return 0;
 }

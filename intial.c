@@ -34,8 +34,5 @@ int main()
     printf("W\n");
     printf("WWWWWWWWWWWWWWWW\n");
 
-    
-    
     return 0;
-
 }
